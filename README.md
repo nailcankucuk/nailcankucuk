@@ -3,6 +3,7 @@
 - Software Developer 👨🏻‍💻 @Turkcell
 - 🔭 Working on Java, JavaScript
 - 🌱 Learning GoLang, VueJS
+</br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nailcankucuk&show_icons=true&theme=cobalt)
 
