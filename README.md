@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nailcankucuk&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailcankucuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **nailcankucuk/nailcankucuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
