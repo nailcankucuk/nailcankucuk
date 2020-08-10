@@ -3,6 +3,8 @@
 - Software Developer 👨🏻‍💻 @Turkcell
 - 🔭 Working on Java, JavaScript
 - 🌱 Learning GoLang, VueJS
+- ![Github Stats](https://github-readme-stats.vercel.app/api?username=nailcankucuk&show_icons=true&theme=cobalt)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailcankucuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/nailcan-küçük-10b86667/">
   <img align="left" alt="Nailcankucuk's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,12 +15,6 @@
 <a href="https://medium.com/@nailcankucuk">
   <img align="left" alt="Nailcankucuk's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
-
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nailcankucuk&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailcankucuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
