@@ -1,7 +1,7 @@
 ### 👋 Nailcan Küçük 🇹🇷
 
 - Software Developer 👨🏻‍💻 @Turkcell
-- 🔭 Working on Java, BackboneJS
+- 🔭 Working on Java, Kotlin, JS 
 - 🌱 Learning GoLang, ReactJS
 </br>
 
