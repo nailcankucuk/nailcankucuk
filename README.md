@@ -5,6 +5,8 @@
 - 🌱 Learning GoLang, ReactJS
 </br>
 
+![Alt Text](https://raw.githubusercontent.com/nailcankucuk/nailcankucuk/master/demo.gif)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nailcankucuk&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailcankucuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
