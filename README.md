@@ -2,7 +2,7 @@
 
 - Software Developer 👨🏻‍💻 @Turkcell
 - 🔭 Working on Java, Kotlin, JS 
-- 🌱 Learning GoLang, ReactJS
+- 🌱 Learning Go, ReactJS
 </br>
 
 ![Alt Text](https://raw.githubusercontent.com/nailcankucuk/nailcankucuk/master/demo.gif)
