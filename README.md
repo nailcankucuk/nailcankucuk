@@ -9,7 +9,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nailcankucuk&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailcankucuk&hide=css)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailcankucuk&hide=css)](https://github.com/nailcankucuk)
 
 <a href="https://www.linkedin.com/in/nailcan-küçük-10b86667/">
   <img align="left" alt="Nailcankucuk's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
