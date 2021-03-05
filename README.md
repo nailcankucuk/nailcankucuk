@@ -5,10 +5,6 @@
 - 🌱 Learning Go, ReactJS
 </br>
 
-![Alt Text](https://raw.githubusercontent.com/nailcankucuk/nailcankucuk/master/banner_.gif) ![Alt Text](https://raw.githubusercontent.com/nailcankucuk/nailcankucuk/master/demo.gif)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nailcankucuk&show_icons=true&theme=onedark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailcankucuk&hide=css)](https://github.com/nailcankucuk)
 
 <a href="https://www.linkedin.com/in/nailcan-küçük-10b86667/">
