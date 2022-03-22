@@ -1,8 +1,8 @@
 ### 👋 Nailcan Küçük 🇹🇷
 
-- Software Developer 👨🏻‍💻 @Turkcell
+- Software Developer 👨🏻‍💻 @Udemy
 - 🔭 Working on Java, Kotlin, JS 
-- 🌱 Learning Go, ReactJS
+- 🌱 Learning Go, ReactJS, Python
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailcankucuk&hide=css)](https://github.com/nailcankucuk)
